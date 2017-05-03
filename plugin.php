@@ -1,7 +1,7 @@
 <?php
 return array(
         'id' => 'airstudio:ostickettodiscord',
-        'version' => '0.1',
+        'version' => '0.2',
         'name' => 'Discord Notif',
         'author' => 'Fabrice Simonet - Air-Studio.ch',
         'description' => 'Notification des nouveaux tickets et messages sur un #chan discord',

@@ -6,13 +6,9 @@ class Client
 {
      
     protected $url = null;
-         
     protected $name = null;
-    
     protected $avatar = null;
-        
     protected $message = null;
-    
     protected $tts = false;
 
     public function __construct($url) {
